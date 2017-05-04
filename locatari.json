@@ -1,0 +1,45 @@
+{
+  "locatari_imobil": {
+    "locatar": [
+      {
+        "nume": "Enescu Radu",
+        "data_nasterii": "04.05.1973",
+        "adresa": "str.Lalelelor,bl.P8,et.1,ap.5",
+        "gen": "M",
+        "handicap_fizic": "da",
+        "imobil": {
+          "nr_camere": "3",
+          "metri_patrati": "62",
+          "prevazut_cu_lift": "da",
+          "prevazut_cu_rampa": "nu"
+        }
+      },
+      {
+        "nume": "Enescu Radu",
+        "data_nasterii": "04.05.1973",
+        "adresa": "str.Lalelelor,bl.P8,et.1,ap.5",
+        "gen": "M",
+        "handicap_fizic": "da",
+        "imobil": {
+          "nr_camere": "3",
+          "metri_patrati": "62",
+          "prevazut_cu_lift": "da",
+          "prevazut_cu_rampa": "nu"
+        }
+      },
+      {
+        "nume": "Enescu Radu",
+        "data_nasterii": "04.05.1973",
+        "adresa": "str.Lalelelor,bl.P8,et.1,ap.5",
+        "gen": "M",
+        "handicap_fizic": "da",
+        "imobil": {
+          "nr_camere": "3",
+          "metri_patrati": "62",
+          "prevazut_cu_lift": "da",
+          "prevazut_cu_rampa": "nu"
+        }
+      }
+    ]
+  }
+}
