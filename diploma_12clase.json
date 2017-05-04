@@ -1,0 +1,66 @@
+{
+  "structura_diplome_bac": {
+    "absolvent": [
+      {
+        "nume": "Popescu Mirel ",
+        "localitate": "Craiova",
+        "judet": "Dolj",
+        "diploma": {
+          "absolvent_al_liceului": "Colegiul National Carol I ",
+          "filiera": "teoretica",
+          "profil": "uman",
+          "specializarea": "limbi straine",
+          "sesiunea": "iunie-iulie 2013",
+          "situatie_note": {
+            "evaluare_comunicare_orala_romana": "Utilizator experimentat",
+            "evaluare_competente_lingvistice_engleza": {
+              "intelegerea_textului_audiat": "B1",
+              "intelegerea_textului_citit": "B1",
+              "producerea_de_mesaje_scrise": "B2",
+              "producerea_de_mesaje_orale": "B2",
+              "interactiune_orala": "B2"
+            },
+            "evaluare_competente_digitale": {
+              "punctaj": "85 puncte",
+              "grad": "Utilizator experimentat"
+            },
+            "limba_si_literatura_romana_scris": "9.40",
+            "matematica": "8.50",
+            "fizica": "9",
+            "media_generala": "8.96"
+          }
+        }
+      },
+      {
+        "nume": "Popescu Mirel ",
+        "localitate": "Craiova",
+        "judet": "Dolj",
+        "diploma": {
+          "absolvent_al_liceului": "Colegiul National Carol I ",
+          "filiera": "teoretica",
+          "profil": "uman",
+          "specializarea": "limbi straine",
+          "sesiunea": "iunie-iulie 2013",
+          "situatie_note": {
+            "evaluare_comunicare_orala_romana": "Utilizator experimentat",
+            "evaluare_competente_lingvistice_engleza": {
+              "intelegerea_textului_audiat": "B1",
+              "intelegerea_textului_citit": "B1",
+              "producerea_de_mesaje_scrise": "B2",
+              "producerea_de_mesaje_orale": "B2",
+              "interactiune_orala": "B2"
+            },
+            "evaluare_competente_digitale": {
+              "punctaj": "85 puncte",
+              "grad": "Utilizator experimentat"
+            },
+            "limba_si_literatura_romana_scris": "9.40",
+            "matematica": "8.50",
+            "fizica": "9",
+            "media_generala": "8.96"
+          }
+        }
+      }
+    ]
+  }
+}

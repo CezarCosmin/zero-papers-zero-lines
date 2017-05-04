@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structura_diplome_bac>
+<absolvent>
+	<nume>Popescu Mirel </nume>
+	<localitate>Craiova</localitate>
+	<judet>Dolj</judet>
+	<diploma>
+		<absolvent_al_liceului>Colegiul National Carol I </absolvent_al_liceului>
+		<filiera>teoretica</filiera>
+		<profil>uman</profil>
+		<specializarea>limbi straine</specializarea>
+		<sesiunea>iunie-iulie 2013</sesiunea>
+		
+		<situatie_note>
+			<evaluare_comunicare_orala_romana>Utilizator experimentat</evaluare_comunicare_orala_romana>
+			<evaluare_competente_lingvistice_engleza>
+				<intelegerea_textului_audiat>B1</intelegerea_textului_audiat>
+				<intelegerea_textului_citit>B1</intelegerea_textului_citit>
+				<producerea_de_mesaje_scrise>B2</producerea_de_mesaje_scrise>
+				<producerea_de_mesaje_orale>B2</producerea_de_mesaje_orale>
+				<interactiune_orala>B2</interactiune_orala>
+			</evaluare_competente_lingvistice_engleza>
+		
+			<evaluare_competente_digitale>
+				<punctaj>85 puncte</punctaj>
+				<grad>Utilizator experimentat</grad>
+			</evaluare_competente_digitale>
+			
+			<limba_si_literatura_romana_scris>9.40</limba_si_literatura_romana_scris>
+			<matematica>8.50</matematica>
+			<fizica>9</fizica>
+			<media_generala>8.96</media_generala>
+		</situatie_note>
+			
+			
+	</diploma>
+</absolvent>
+
+<absolvent>
+	<nume>Popescu Mirel </nume>
+	<localitate>Craiova</localitate>
+	<judet>Dolj</judet>
+	<diploma>
+		<absolvent_al_liceului>Colegiul National Carol I </absolvent_al_liceului>
+		<filiera>teoretica</filiera>
+		<profil>uman</profil>
+		<specializarea>limbi straine</specializarea>
+		<sesiunea>iunie-iulie 2013</sesiunea>
+		
+		<situatie_note>
+			<evaluare_comunicare_orala_romana>Utilizator experimentat</evaluare_comunicare_orala_romana>
+			<evaluare_competente_lingvistice_engleza>
+				<intelegerea_textului_audiat>B1</intelegerea_textului_audiat>
+				<intelegerea_textului_citit>B1</intelegerea_textului_citit>
+				<producerea_de_mesaje_scrise>B2</producerea_de_mesaje_scrise>
+				<producerea_de_mesaje_orale>B2</producerea_de_mesaje_orale>
+				<interactiune_orala>B2</interactiune_orala>
+			</evaluare_competente_lingvistice_engleza>
+		
+			<evaluare_competente_digitale>
+				<punctaj>85 puncte</punctaj>
+				<grad>Utilizator experimentat</grad>
+			</evaluare_competente_digitale>
+			
+			<limba_si_literatura_romana_scris>9.40</limba_si_literatura_romana_scris>
+			<matematica>8.50</matematica>
+			<fizica>9</fizica>
+			<media_generala>8.96</media_generala>
+		</situatie_note>
+			
+			
+	</diploma>
+</absolvent>
+
+
+
+
+
+
+
+</structura_diplome_bac>
